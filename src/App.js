@@ -16,6 +16,7 @@ function App() {
     <main>
       <h1>Create React App + Go API</h1>
       <h2>Web 22 Rules</h2>
+      <h3>Got a domain yayyyyyy</h3>
       <h2>
         Deployed with{' '}
         <a
